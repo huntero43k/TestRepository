@@ -1,2 +1,0 @@
-first test file in directory
-print some text
