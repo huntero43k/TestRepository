@@ -1,2 +1,2 @@
 first test file in directory
-print
+print some text
